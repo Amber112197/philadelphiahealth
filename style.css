@@ -1,5 +1,5 @@
 header{
-	background-color: #008000;
+	background-color: #006622;
 	color: white;
 	text-align: center;
 	height: 40px;
@@ -50,7 +50,7 @@ nav:link{
 	font-weight: bold;
 }
 footer{
-	background-color: #008000;
+	background-color: #006622;
 	text-align: center;
 	padding: 10px;
 	color: white;
@@ -60,14 +60,14 @@ a:hover{
 }
 #h1{
 	text-align: center;
-	background-color: #0066ff;
+	background-color: #66b3ff;
 	color: white;
 }
 #img3{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 70%;
+	width: 50%;
 	height: 30%;
 }
 #t{
@@ -87,6 +87,9 @@ th, td{
 }
 #b{
 	font-weight: bold;
+}
+div{
+	background-color: #66b3ff;
 }
 
 
